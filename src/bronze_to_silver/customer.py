@@ -1,10 +1,5 @@
 # Databricks notebook source
-#dbutils.fs.mount(
-#   source = 'wasbs://bronze@bhaustorage.blob.core.windows.net/',
-#    mount_point = '/mnt/bronze',
-#    extra_configs = {'fs.azure.account.key.bhaustorage.blob.core.windows.#net':'EOJJY4z6iC9RH2CuaIfbmVyBXGkE8yHxGCMWqCnHZIXsvWcNQXzHxIrVLK1YBmqwXHtmf1XQACCP+ASth50Mgw=='}
 
-#)
 
 # COMMAND ----------
 
